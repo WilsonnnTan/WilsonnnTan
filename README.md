@@ -6,4 +6,4 @@
 - cooked
 - currently exploring **cloud computing, backend engineering & system architecture**
 
-![Wilson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonnnTan&theme=dark&show_icons=true&hide_border=true&layout=compact&v=2)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/WilsonnnTan)
